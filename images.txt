@@ -7,3 +7,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 vllm/vllm-openai:latest
+--platform linux/arm64 vllm/vllm-openai:latest 
